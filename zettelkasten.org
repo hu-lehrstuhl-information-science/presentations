@@ -1,0 +1,54 @@
+#+TITLE: Zettelkasten
+#+OPTIONS: toc:nil
+#+OPTIONS: reveal_title_slide:nil
+
+** TODO COMMENT
+*** Listen to Zettelkasten Podcast:
+https://zwischenzweideckeln.de/zettelkasten-prinzip-soenke-ahrens/
+*** Folien erstellen
+*** Kleinen Artikel im Moodle oder bei JDD / lehrstuhl...science.github.io schreiben :)
+*** Im schlimmsten Fall ist die Präsi ein kleiner Teaser für den Artikel im Blog
+* Introduction
+** Disclaimer: I am not a PIM expert ;)
+** /Zettelkasten/ invented by Niklas Luhmann
+** Among Weber one of the big German sociologist in the 21st century
+** Wrote roughly 60 books in 30 years
+** His research assistant:
+- Shelves storing 90,000 /Zettel/, i. e. (paper) notes
+- *Zettelkasten* as a conversation partner
+** COMMENT The idea reminds me of personal wikis and Jesse also compared it with Memex as envisioned by Bush in [[https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/]["As we may think"]]
+* Aims
+** Create a knowledge base, i.e. personal wiki
+** Retain knowledge for one's entire life
+- Maybe even beyond that: [[https://niklas-luhmann-archiv.de/bestand/zettelkasten/inhaltsuebersicht][see here]]
+** Connect ideas from different sources
+** One's personal research assistant
+* How to get there?
+** It's a process not a static tool
+** Everything on little *linked* notes
+** Assign keywords
+- Heuristic:
+
+  In which situation do I want to find this note?
+** Your own short description
+- Ideas should be described in 2-3 sentences
+- Copy & paste is discouraged
+** Notes/ideas are atomic
+- Self-descriptive / autonomous
+*** Advantages:
+- Freely composable with other ideas
+  - /source agnostic/
+- Easy to digest
+** No hierarchy
+- Only local ordering
+- In its entirety: a big graph
+* Probably life long emerging process
+* /Das Zettelkasten Prinzip/
+- Author: *Sönke Ahrens*
+  + Educational Scientist
+- No step-by-step guide
+- Explains theory behind /Zettelkasten/
+* Showcase neuron
+* How do you organize your knowledge?
+* COMMENT GTD
+** COMMENT Show diagram from Haskell-guy
