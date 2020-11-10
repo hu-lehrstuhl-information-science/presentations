@@ -2,12 +2,6 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: reveal_title_slide:nil
 
-** TODO COMMENT
-*** Listen to Zettelkasten Podcast:
-https://zwischenzweideckeln.de/zettelkasten-prinzip-soenke-ahrens/
-*** Folien erstellen
-*** Kleinen Artikel im Moodle oder bei JDD / lehrstuhl...science.github.io schreiben :)
-*** Im schlimmsten Fall ist die Präsi ein kleiner Teaser für den Artikel im Blog
 * Introduction
 ** Disclaimer: I am not a PIM expert ;)
 ** /Zettelkasten/ invented by Niklas Luhmann
